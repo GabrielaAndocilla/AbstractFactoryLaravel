@@ -1,0 +1,78 @@
+html, body {
+    background-color: #f8f8f8;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+#titulo{
+    background-color: #004d61;
+    justify-content:center;
+    margin:0;
+    padding: 2%;
+    color: #f8f8f8;
+    text-align: center;
+}
+img{
+    
+  width: 200px;
+  height: 150px;
+  justify-content: center;
+  border-radius: 4px;
+
+
+}
+.titulo{
+    text-align: center;
+    font-size: 200%;
+    color:#ff502f;
+    font-weight: 700;
+
+}
+input[type=text]{
+    background-color:#bbe1fa;
+    border: none;
+    color:black;
+    padding: 5px 15px;
+    font-size: 100%;
+    border-radius: 8px;
+    width: 25%;
+    text-align: center;
+}
+.seccionAlitas{
+    text-align:center;
+    padding-left:1% ;
+    column-count: 3;
+    
+}
+.seccionHamburguesa{
+    text-align:center;
+    padding-left:1% ;
+    column-count: 3;
+
+}
+.seccionPizza{
+    text-align:center;
+    padding-left:1% ;
+    column-count: 3;
+}
+input[type=button] {
+    background-color:#35495e;
+    border: none;
+    color:#f8f8f8;
+    padding: 5px 15px;
+    font-size: 100%;
+    border-radius: 8px;
+}
+#Orden{
+    padding: 1%;
+    background-color: #c93838;
+    color: #f8f8f8;
+    justify-content: center;
+    font-weight: 600;
+    font-size: medium;
+    margin-top: 3%;
+    margin-left: 45%;
+}
+
+
